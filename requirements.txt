@@ -2,7 +2,6 @@ streamlit
 scikit-learn
 joblib
 lime
-gensim
 pandas
 numpy
 matplotlib
